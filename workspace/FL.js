@@ -1,6 +1,5 @@
 const VI = {}
 
-
 VI.toggleSwitch = function(outerBox, innerBox, flag){
   if(flag.value){
     outerBox.style = 'background-color: #afafaf;'
