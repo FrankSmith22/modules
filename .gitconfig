@@ -1,0 +1,15 @@
+[user]
+    name = Frank Smith
+    email = fasvi6@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
+[credential]
+	helper = cache --timeout=3600
